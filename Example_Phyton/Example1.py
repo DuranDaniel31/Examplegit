@@ -6,6 +6,7 @@
 """
 
 import random 
+print ("Número aleatorio entre 1 y 10 ")
 
 random_number = random.randint(1,10) 
 
